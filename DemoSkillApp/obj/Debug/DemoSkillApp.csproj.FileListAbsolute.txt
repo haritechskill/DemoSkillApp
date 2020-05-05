@@ -1,0 +1,2 @@
+c:\users\prajapati\documents\visual studio 2015\Projects\DemoSkillApp\DemoSkillApp\bin\Debug\DemoSkillApp.exe.config
+C:\Users\PRAJAPATI\Source\Repos\DemoSkillApp\DemoSkillApp\bin\Debug\DemoSkillApp.exe.config
